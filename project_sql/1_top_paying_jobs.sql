@@ -1,3 +1,8 @@
+/*
+This query retrieves the top 10 highest yearly salaries for data analysts
+who work remotely only, and includes the companies they are employed by.
+*/
+
 SELECT
     job_id,
     job_title,

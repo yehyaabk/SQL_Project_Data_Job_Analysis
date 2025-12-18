@@ -1,4 +1,4 @@
--- Shows which skills are linked to the highest average salaries for Data  roles.
+-- These queries find the top-paying skills
 
 -- FOR all data roles
 SELECT
